@@ -1,1 +1,1 @@
-# numpy-funciones-
+# numpy-funciones-numpy
